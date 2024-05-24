@@ -1,6 +1,1 @@
- Git and Git hub are two different entities
-
-git is software and git hub is service.
-
-Repo/Repository
-
+hi midhun
